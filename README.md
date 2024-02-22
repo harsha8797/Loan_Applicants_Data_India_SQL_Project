@@ -9,12 +9,19 @@ The dataset contains detailed information about loan applicants, including demog
 Key attributes include:
 
 Applicant_ID: Unique identifier for each loan applicant.
+
 Annual_Income: The annual income of the applicant.
+
 Applicant_Age: Age of the applicant.
+
 Work_Experience: Number of years of work experience.
+
 Marital_Status, House_Ownership, Vehicle_Ownership: Marital status, house, and vehicle ownership status.
+
 Occupation, Residence_City, Residence_State: Professional and residential information.
+
 Loan_Default_Risk: Indicator of the risk of defaulting on the loan.
+
 SQL Queries
 
 This project includes a series of SQL queries designed to perform a deep dive into the dataset, addressing various analytical objectives:
