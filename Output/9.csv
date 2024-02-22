@@ -1,0 +1,7 @@
+"house_ownership","vehicle_ownership","default_risk_ratio"
+"rented",False,"0.14675225527008709471"
+"norent_noown",True,"0.09360189573459715640"
+"rented",True,"0.10256226482709191901"
+"owned",True,"0.04665825977301387137"
+"norent_noown",False,"0.09008555611474584801"
+"owned",False,"0.10987124463519313305"
