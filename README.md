@@ -27,13 +27,18 @@ SQL Queries
 This project includes a series of SQL queries designed to perform a deep dive into the dataset, addressing various analytical objectives:
 
 Demographic Analysis: Analyze applicant demographics to understand the distribution across different categories.
+
 Income Analysis: Explore the relationship between applicants' incomes, occupations, and loan default risks.
+
 Ownership Status: Assess the impact of house and vehicle ownership on loan default risks.
+
 Geographic Insights: Identify geographic patterns related to loan applications and default risks.
-Outputs
+
+Outputs:
 For each SQL query, outputs are provided in CSV format, showcasing the results of the analysis. These outputs serve as the basis for further discussion and decision-making processes.
 
 Usage
+
 To replicate this analysis:
 
 Set up your PostgreSQL environment: Ensure PostgreSQL is installed and running on your machine. Create a new database named loan_applicants_db.
